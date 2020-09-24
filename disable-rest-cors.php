@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: DisableRestCors
+Plugin Name: Disable REST CORS
 Plugin URI: https://github.com/Zorrodelaarena/wp-disable-rest-cors/
 Description: A WordPress plugin that blocks cross-origin requests made to the REST API
 Version: 0.0.1
@@ -25,4 +25,4 @@ class DisableRestCors {
 		}, 15 );
 	}
 }
-DisabeRestCors::Init();
+DisableRestCors::Init();
